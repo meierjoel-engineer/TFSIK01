@@ -9,12 +9,14 @@ lcsc_ids = [
     "C470892",
     "C5367093",
     "C2651038",
-    "C7209266"
+    "C7209266",
+    "C133065",
 ]
 
 output_path = "hw\sch_pcb\TFSIK_JLCPCB_Lib"
 
 for lcsc_id in lcsc_ids:
+    print(f"Processing {lcsc_id}...")
     args = [
         "python", script_path,
         "--full",
