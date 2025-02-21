@@ -3,6 +3,7 @@ import subprocess
 # install https://pypi.org/project/easyeda2kicad/
 script_path = "C:\\GitRepos\\easyeda2kicad.py\\easyeda2kicad"
 
+# get ids from https://jlcpcb.com/parts or https://yaqwsx.github.io/jlcparts/#/
 lcsc_ids = [
     "C92518",
     "C126027",
