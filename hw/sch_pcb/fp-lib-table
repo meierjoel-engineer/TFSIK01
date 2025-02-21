@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "TFSIK_JLCPCB_Lib")(type "KiCad")(uri "${KIPRJMOD}/TFSIK_JLCPCB_Lib.pretty")(options "")(descr ""))
+  (lib (name "TFSIK_JLCPCB_Lib.3dshapes")(type "KiCad")(uri "${TFSIK_GIT}/hw/sch_pcb/TFSIK_JLCPCB_Lib.3dshapes")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "C:/GitLabs/wasp_ad_hardware/Software/SamacSys/SamacSys_Parts.pretty")(options "")(descr ""))
 )

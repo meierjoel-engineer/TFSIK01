@@ -2348,6 +2348,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C1635"
+			(at 214.63 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "80eb032f-7384-4a00-b173-0b1080614b00")
 		)
@@ -2447,7 +2455,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "10pF"
 			(at 116.84 104.775 0)
 			(effects
 				(font
@@ -2505,6 +2513,14 @@
 		(property "Value_868" "4.7pF"
 			(at 112.014 105.918 90)
 			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C106245"
+			(at 118.11 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2604,6 +2620,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C139261"
+			(at 40.64 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2920,6 +2944,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C1635"
+			(at 48.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7856c216-8b60-4cf8-83ec-841bc7e1f9be")
 		)
@@ -3081,6 +3113,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "GlobalSource"
+			(at 26.67 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e571326b-f04b-46a0-90b0-1dc7664e350a")
 		)
@@ -3175,6 +3215,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C105174"
+			(at 184.15 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3400,6 +3448,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C1635"
+			(at 48.26 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3849,6 +3905,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C317994"
+			(at 257.81 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7d69aed8-460a-42ab-8c30-2dd0aa3ade08")
 		)
@@ -3943,6 +4007,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part" "GlobalSource"
+			(at 26.67 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4207,7 +4279,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "10pF"
 			(at 140.335 104.775 0)
 			(effects
 				(font
@@ -4264,6 +4336,14 @@
 		(property "Value_868" "4.7pF"
 			(at 138.938 106.172 90)
 			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C106245"
+			(at 132.08 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4367,6 +4447,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C100973"
+			(at 205.105 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "017b94dd-0c15-4e7e-b80b-eec2a72f596f")
 		)
@@ -4460,6 +4548,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C1635"
+			(at 264.16 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4644,6 +4740,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C1635"
+			(at 191.77 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5200,7 +5304,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "15nH"
 			(at 125.73 93.98 90)
 			(effects
 				(font
@@ -5257,6 +5361,14 @@
 		(property "Value_868" "9.1nH"
 			(at 124.46 87.63 90)
 			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C139275"
+			(at 125.73 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5356,6 +5468,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C139261"
+			(at 40.64 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

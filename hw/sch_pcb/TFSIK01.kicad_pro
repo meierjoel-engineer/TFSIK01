@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.2,
-          "width": 1.8
+          "height": 4.1,
+          "width": 3.6
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -122,18 +122,6 @@
         ],
         [
           "drill_out_of_range|142041000|86405000|468cf795-46df-4197-993f-b6f14b7eac1a|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|152861000|93380000|72608037-2a6d-4926-9fca-179d51565637|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|153461000|93380000|24d7c602-2a97-48b3-9837-d97ee32b4712|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|154061000|93380000|0882deae-f24e-485b-8781-d064f71fae70|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -705,7 +693,7 @@
           "group_by": false,
           "label": "Value_433",
           "name": "Value_433",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,

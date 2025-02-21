@@ -1,4 +1,4 @@
-24746046641525600
+24763423122564473
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91195,6 +91195,69 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SamacSys_Parts
+1154013
+1154013-1
+Connector
+0
+22
+22
+SamacSys_Parts
+1337012
+1337012-6
+Connector
+0
+24
+24
+SamacSys_Parts
+1373866
+1373866-1
+Connector
+0
+24
+24
+SamacSys_Parts
+BM28B0630DS2035V53
+BM28B0.6-30DS/2-0.35V(53)-1
+Connector
+0
+34
+34
+SamacSys_Parts
+BMIS104
+BMI-S-104-5
+Hardware
+0
+24
+24
+SamacSys_Parts
+CT31490
+CT3149-0-1
+Connector
+0
+1
+1
+SamacSys_Parts
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+SOP65P490X110-8N
+DGK  (S-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+TC2030IDCNL
+TC2030-IDC-NL-1
+Connector
+0
+9
+9
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -92868,6 +92931,13 @@ Logo WEEE
 0
 0
 0
+TFSIK_JLCPCB_Lib
+CONN-TH_SM06B-GHS-TB-LF-SN
+
+
+0
+8
+8
 TFSIK_JLCPCB_Lib
 CRYSTAL-SMD_4P-L5.0-W3.2-BL
 
